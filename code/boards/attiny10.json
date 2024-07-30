@@ -1,0 +1,21 @@
+{
+  "build": {
+      "extra_flags": "",
+      "f_cpu": "1000000",
+      "hwids": [
+          [
+              "0x1E9003"
+          ]
+      ],
+      "mcu": "attiny10"
+  },
+  "frameworks": [
+  ],
+  "name": "Generic ATTiny10",
+  "upload": {
+      "maximum_ram_size": 32,
+      "maximum_size": 1024
+  },
+  "url": "",
+  "vendor": ""
+}
